@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m @NABIN720**
 - 👀 *I’m interested in web development*
 - 🌱 _I’m currently learning django_
-- 📫 How to reach me through social media facebook-https://www.facebook.com/nabin.bhattarai.56863                                         
+- 📫 How to reach me through social media facebook-https://www.facebook.com/nabin.bhattarai.021                                        
 
 <!---
 NABIN720/NABIN720 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
